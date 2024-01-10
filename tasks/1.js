@@ -20,7 +20,7 @@ const ll1 = new ListNode(2,
 
 const ll2 = new ListNode(5,
     new ListNode(6,
-        new ListNode(4,null)
+        new ListNode(4, null)
     )
 );
 
